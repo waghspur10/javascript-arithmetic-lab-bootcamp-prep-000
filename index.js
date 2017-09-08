@@ -14,7 +14,7 @@ function inc(n){
   return n+=1;
 }
 function dec(n){
-  return n+=1;
+  return n-=1;
 }
 function makeInt(n, 10){
   return parseInt(n);
